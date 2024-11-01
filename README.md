@@ -339,15 +339,6 @@ A New Flutter Project for Mobile Programming Week 5.
 
 <br></br>
 
----
-4. Selesaikan Codelabs: Your first Flutter app, lalu buatlah laporan praktikumnya dan push ke repository GitHub Anda!
-
-    Jawab : 
-    
-    Repository Your first Flutter app : https://github.com/daffayudisaa/namer-app
-    
-    Laporan Praktikum Your first Flutter app : https://github.com/daffayudisaa/namer-app/blob/master/README.md 
-
 
 
 
